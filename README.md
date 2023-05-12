@@ -1,0 +1,2 @@
+# .github
+team qubit description
